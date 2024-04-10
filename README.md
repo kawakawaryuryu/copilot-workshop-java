@@ -4,8 +4,10 @@
 macOS 14.4.1, Windows11 にて動作確認済み。
 
 - [Java SDK](https://www.oracle.com/java/technologies/javase-downloads.html)
+  - version:JDK 21
   - Oracle Java以外にOpen JDKなどでも動作可能
 - [Maven](https://maven.apache.org/)
+  - version:3.9+
   - PATHを設定し実行できるようにしてください
 - [Visual Studio Code](https://code.visualstudio.com/download)
   - GitHub Copilot, Java等の拡張機能。
