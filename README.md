@@ -1,7 +1,8 @@
 # copilot-workshop-java
 
 ## 前提条件
-macOS 14.4.1, Windows11 にて動作確認済み。
+下記環境の準備をお願いいたします。macOS 14.4.1, Windows11 にて動作確認を行なっております。
+尚、動作確認はVisual Studio Codeで行なっておりますが、GitHub CopilotをサポートしているIntelliJなどでもご参加可能です。
 
 - [Java SDK](https://www.oracle.com/java/technologies/javase-downloads.html)
   - version:JDK 21
